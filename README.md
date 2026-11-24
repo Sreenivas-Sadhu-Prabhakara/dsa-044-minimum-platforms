@@ -12,6 +12,13 @@ The pairing of arrival to departure per train is a red herring — only the *cou
 
 **Complexity:** O(n log n) time, O(n) space for the sorted copies.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify

@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="563" viewBox="0 0 760 563" role="img" aria-label="Step-by-step visual walkthrough">
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="context-stroke"/></marker></defs>
+<rect x="1.0" y="1.0" width="758.0" height="561.0" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.2"/>
+<text x="24.0" y="34.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#1e293b" text-anchor="start" font-weight="600">Minimum Platforms — peak overlap via an event sweep</text>
+<circle cx="35.0" cy="74.0" r="11" fill="#2563eb" stroke="#2563eb" stroke-width="1.4"/>
+<text x="35.0" y="78.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="600">1</text>
+<text x="56.0" y="79.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">Trains arrive and depart all day; how many platforms must the station own? Answer:</text>
+<text x="56.0" y="98.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">the PEAK number of trains present at once.</text>
+<text x="84.0" y="147.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748b" text-anchor="end">arrive</text>
+<rect x="94.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="116.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:00</text>
+<text x="116.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">0</text>
+<rect x="140.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="162.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:40</text>
+<text x="162.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">1</text>
+<rect x="186.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="208.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:50</text>
+<text x="208.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">2</text>
+<rect x="232.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="254.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:00</text>
+<text x="254.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">3</text>
+<rect x="278.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="300.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">15:00</text>
+<text x="300.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">4</text>
+<rect x="324.0" y="122.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="346.0" y="146.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">18:00</text>
+<text x="346.0" y="118.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">5</text>
+<text x="84.0" y="207.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748b" text-anchor="end">depart</text>
+<rect x="94.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="116.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:10</text>
+<text x="116.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">0</text>
+<rect x="140.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="162.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">12:00</text>
+<text x="162.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">1</text>
+<rect x="186.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="208.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:20</text>
+<text x="208.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">2</text>
+<rect x="232.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="254.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:30</text>
+<text x="254.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">3</text>
+<rect x="278.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="300.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">19:00</text>
+<text x="300.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">4</text>
+<rect x="324.0" y="182.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="346.0" y="206.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">20:00</text>
+<text x="346.0" y="178.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">5</text>
+<line x1="24.0" y1="232.0" x2="736.0" y2="232.0" stroke="#e2e8f0" stroke-width="1"/>
+<circle cx="35.0" cy="252.0" r="11" fill="#2563eb" stroke="#2563eb" stroke-width="1.4"/>
+<text x="35.0" y="256.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="600">2</text>
+<text x="56.0" y="257.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">Sort both lists, sweep time: arrival +1, departure -1. The count over time:</text>
+<text x="56.0" y="276.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">1,0,1,2,3,... — three trains share the station at 11:00.</text>
+<text x="84.0" y="325.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748b" text-anchor="end">events</text>
+<rect x="94.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="116.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:00↑</text>
+<text x="116.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">0</text>
+<rect x="140.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="162.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:10↓</text>
+<text x="162.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">1</text>
+<rect x="186.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="208.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:40↑</text>
+<text x="208.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">2</text>
+<rect x="232.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="254.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">9:50↑</text>
+<text x="254.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">3</text>
+<rect x="278.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.2"/>
+<text x="300.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:00↑</text>
+<text x="300.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">4</text>
+<rect x="324.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="346.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:20↓</text>
+<text x="346.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">5</text>
+<rect x="370.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="392.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">11:30↓</text>
+<text x="392.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">6</text>
+<rect x="416.0" y="300.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="438.0" y="324.0" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1e293b" text-anchor="middle">12:00↓</text>
+<text x="438.0" y="296.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">7</text>
+<text x="84.0" y="385.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748b" text-anchor="end">count</text>
+<rect x="94.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="116.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">1</text>
+<text x="116.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">0</text>
+<rect x="140.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="162.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">0</text>
+<text x="162.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">1</text>
+<rect x="186.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="208.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">1</text>
+<text x="208.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">2</text>
+<rect x="232.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="254.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+<text x="254.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">3</text>
+<rect x="278.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1.2"/>
+<text x="300.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">3</text>
+<text x="300.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">4</text>
+<rect x="324.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="346.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+<text x="346.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">5</text>
+<rect x="370.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="392.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">1</text>
+<text x="392.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">6</text>
+<rect x="416.0" y="360.0" width="44.0" height="38.0" rx="6" fill="#eef2f7" stroke="#94a3b8" stroke-width="1.2"/>
+<text x="438.0" y="384.0" font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#1e293b" text-anchor="middle">0</text>
+<text x="438.0" y="356.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">7</text>
+<line x1="24.0" y1="410.0" x2="736.0" y2="410.0" stroke="#e2e8f0" stroke-width="1"/>
+<circle cx="35.0" cy="430.0" r="11" fill="#2563eb" stroke="#2563eb" stroke-width="1.4"/>
+<text x="35.0" y="434.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="600">3</text>
+<text x="56.0" y="435.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">Peak = 3 platforms. Arrivals and departures are sorted independently — WHICH train</text>
+<text x="56.0" y="454.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">leaves doesn't matter, only how many are present. Tie rule: departure before arrival</text>
+<text x="56.0" y="473.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" fill="#1e293b" text-anchor="start">at the same minute.</text>
+<text x="72.0" y="508.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#64748b" text-anchor="end">answer</text>
+<rect x="84.0" y="489.0" width="135.0" height="28.0" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.2"/>
+<text x="151.5" y="508.0" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#1e293b" text-anchor="middle">platforms → 3</text>
+<text x="380.0" y="545.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">github.com/Sreenivas-Sadhu-Prabhakara · dsa series</text>
+</svg>
